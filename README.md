@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 keep trying no matter how hard it seems.it well get easier.
 
